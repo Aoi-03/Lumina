@@ -51,8 +51,8 @@ Watch the detailed explanation: [YouTube Video](https://www.youtube.com/watch?v=
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lumina.git
-   cd lumina
+   git clone https://github.com/Aoi-03/Lumina.git
+   cd Lumina
    ```
 
 2. Install dependencies with Vcpkg:
