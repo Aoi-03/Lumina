@@ -1,0 +1,6 @@
+numpy>=1.21.0
+PyOpenGL>=3.1.5
+PyOpenGL-accelerate>=3.1.5
+glfw>=2.5.0
+astropy>=5.0.0
+opencv-python>=4.5.0
