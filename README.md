@@ -1,6 +1,6 @@
 # LUMINA - Gravitational Lensing Simulator
 
-A black hole simulation project featuring gravitational lensing, accretion disks, and spacetime curvature visualization using ray-tracing and GPU compute shaders
+A black hole simulation project featuring gravitational lensing, accretion disks, and spacetime curvature visualization using ray-tracing and GPU compute shaders.
 
 ## Features
 
